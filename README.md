@@ -4,8 +4,9 @@ A collection of trending speech enhancement papers
 
 | Year | Title | Publication | Code |
 | :-----| :----: | :----: | :----: |
-| 2019 | [AN ATTENTION-BASED NEURAL NETWORK APPROACH FOR SINGLE CHANNEL SPEECH ENHANCEMENT](http://lxie.nwpu-aslp.org/papers/2019ICASSP-XiangHao.pdf) | ICASSP | [github](https://github.com/chanil1218/Attention-SE.pytorch) |
+| 2019 | [AN ATTENTION-BASED NEURAL NETWORK APPROACH FOR SINGLE CHANNEL SPEECH ENHANCEMENT](http://lxie.nwpu-aslp.org/papers/2019ICASSP-XiangHao.pdf) | IEEE-ICASSP | [github](https://github.com/chanil1218/Attention-SE.pytorch) |
 | 2019 | [Learning with Learned Loss Function: Speech Enhancement with Quality-Net to Improve Perceptual Evaluation of Speech Quality](https://arxiv.org/pdf/1905.01898.pdf) | IEEE-SPL |  |
+| 2019 | [Speech Enhancement Based on A New Architecture of Wasserstein Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8706647) | IEEE-ISCSLP | |
 | 2018 | [Quality-Net: An End-to-End Non-intrusive Speech Quality Assessment Model based on BLSTM](https://arxiv.org/pdf/1808.05344.pdf) | arxiv | [github](https://github.com/JasonSWFu/Quality-Net) |
 | 2018 | [PERCEPTUALLY GUIDED SPEECH ENHANCEMENT USING DEEP NEURAL NETWORKS](https://cliffzhao.github.io/Publications/ZXGZ.icassp18.pdf) | IEEE-ICASSP | |
 | 2018 | [Supervised Speech Separation Based on Deep Learning: An Overview](https://arxiv.org/pdf/1708.07524) | IEEE-TASLP | |
