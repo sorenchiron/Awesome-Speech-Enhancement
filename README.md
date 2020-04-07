@@ -17,3 +17,10 @@ A collection of trending speech enhancement papers
 | 2001 | [Perceptual evaluation of speech quality (PESQ)-a new method for speech quality assessment of telephone networks and codecs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.9136&rep=rep1&type=pdf) | IEEE-ICASSP | |
 | 1984 | [Speech Enhancement Using a-Minimum Mean- Square Error Short-Time Spectral Amplitude Estimator](https://ieeexplore.ieee.org/abstract/document/1164453/) | IEEE-TASSP | |
 | 1980 | [Speech Enhancement Using a Soft-Decision Noise Suppression Filter](https://ieeexplore.ieee.org/iel6/29/26145/01163394.pdf) | IEEE-TASSP
+
+
+## Data sets
+
+| Year | Title | Link |
+| :--: | :--:  | :--: |
+| 2015 | [MUSAN: A Music, Speech, and Noise Corpus](https://arxiv.org/pdf/1510.08484.pdf) | [OpenSLR](http://www.openslr.org/17/) |
