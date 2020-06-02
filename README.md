@@ -28,6 +28,7 @@ A collection of trending speech enhancement papers
 | 2015 | [MUSAN: A Music, Speech, and Noise Corpus](https://arxiv.org/pdf/1510.08484.pdf) | [OpenSLR](http://www.openslr.org/17/) |
 | 2013 | The voice bank corpus: Design, collection and data analysis of a large regional accent speech database | |
 | 2013 | The Diverse Environments Multi-channel Acoustic Noise Database (DEMAND): A database of multichannel environmental noise recordings | [zenodo](https://zenodo.org/record/1227121#.XoxK59MzbRY) [kaggle](https://www.kaggle.com/aanhari/demand-dataset) |
+| 1996 | [NOISEX-92](http://mi.eng.cam.ac.uk/comp.speech/Section1/Data/noisex.html) | |
 | 1993 | [Assessment for automatic speech recognition: II. NOISEX-92: A database and an experiment to study the effect of additive noise on speech recognition systems](https://www.sciencedirect.com/science/article/abs/pii/0167639393900953) | [CMU-DSP](http://www.speech.cs.cmu.edu/comp.speech/Section1/Data/noisex.html) |
 
 ## Materials
